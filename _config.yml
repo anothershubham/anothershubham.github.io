@@ -59,13 +59,9 @@ topics:
     web_url: https://github.com/topics/llm
     image_url: https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png
 
-  - name: Retrieval Augmented Generation
-    web_url: https://github.com/topics/rag
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png
-
   - name: LangChain
     web_url: https://github.com/topics/langchain
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/python/python.png
+    image_url: https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png
 
   - name: Kubernetes
     web_url: https://github.com/topics/kubernetes
@@ -75,45 +71,29 @@ topics:
     web_url: https://github.com/topics/platform-engineering
     image_url: https://raw.githubusercontent.com/github/explore/main/topics/devops/devops.png
 
-  - name: FinOps
-    web_url: https://github.com/topics/finops
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/cloud/cloud.png
-
   - name: Cloud Governance
     web_url: https://github.com/topics/cloud
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/cloud/cloud.png
-
-  - name: Identity and Access Management
-    web_url: https://github.com/topics/iam
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/security/security.png
+    image_url: https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg
 
   - name: Golang
     web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/go/go.png
+    image_url: https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg
 
-  - name: Software Engineering
-    web_url: https://github.com/topics/software-engineering
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/code/code.png
-
-  - name: Backend
+  - name: NodeJS
     web_url: https://github.com/topics/backend
     image_url: https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 
-  - name: Microservices
-    web_url: https://github.com/topics/microservices
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/microservices/microservices.png
-
   - name: System Design
     web_url: https://github.com/topics/system-design
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/architecture/architecture.png
+    image_url: https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original.svg
 
   - name: Distributed Systems
     web_url: https://github.com/topics/distributed-systems
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/computer-science/computer-science.png
+    image_url: https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg
 
   - name: Scalable Systems
     web_url: https://github.com/topics/scalability
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/cloud/cloud.png
+    image_url: https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg
 
   - name: AWS
     web_url: https://github.com/topics/aws
@@ -127,25 +107,9 @@ topics:
     web_url: https://github.com/topics/iac
     image_url: https://raw.githubusercontent.com/github/explore/main/topics/devops/devops.png
 
-  - name: Multi-Cloud
-    web_url: https://github.com/topics/multi-cloud
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/cloud/cloud.png
-
   - name: Azure
     web_url: https://github.com/topics/azure
     image_url: https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png
-
-  - name: IBM Cloud
-    web_url: https://github.com/topics/ibm-cloud
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/cloud/cloud.png
-
-  - name: Cloud Security
-    web_url: https://github.com/topics/cloud-security
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/security/security.png
-
-  - name: DevSecOps
-    web_url: https://github.com/topics/devsecops
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/devops/devops.png
 
   - name: Docker
     web_url: https://github.com/topics/docker
@@ -159,25 +123,9 @@ topics:
     web_url: https://github.com/topics/github-actions
     image_url: https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png
 
-  - name: Observability
-    web_url: https://github.com/topics/observability
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/monitoring/monitoring.png
-
-  - name: OpenTelemetry
-    web_url: https://github.com/topics/opentelemetry
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/tracing/tracing.png
-
-  - name: API Gateway
-    web_url: https://github.com/topics/api-gateway
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/api/api.png
-
-  - name: Event Driven Architecture
-    web_url: https://github.com/topics/event-driven
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/architecture/architecture.png
-
   - name: Apache Kafka
     web_url: https://github.com/topics/kafka
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png
+    image_url: https://github.com/apache/kafka/raw/trunk/docs/images/kafka-logo-readme-light.svg
 
   - name: GraphQL
     web_url: https://github.com/topics/graphql
@@ -187,12 +135,8 @@ topics:
     web_url: https://github.com/topics/vector-database
     image_url: https://raw.githubusercontent.com/github/explore/main/topics/database/database.png
 
-  - name: AI Agents
-    web_url: https://github.com/topics/ai-agent
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png
-
   - name: MCP
     web_url: https://github.com/topics/model-context-protocol
-    image_url: https://raw.githubusercontent.com/github/explore/main/topics/api/api.png
+    image_url: https://github.com/modelcontextprotocol/.github/blob/main/profile/assets/light.png
 
   
